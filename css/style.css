@@ -514,7 +514,7 @@ h1, h2, h3, h4, h5,
       .site-navbar .site-navigation .site-menu > li > a {
         margin-left: 15px;
         margin-right: 15px;
-        padding: 20px 0px;
+        padding: 24px 0px;
         color: #fff !important;
         display: inline-block;
         text-decoration: none !important; }
@@ -1173,7 +1173,7 @@ h1, h2, h3, h4, h5,
   background-repeat: no-repeat; }
   @media (max-width: 991.98px) {
     .block__73694 .block__73422 {
-      height: 400px; } }
+      height: 500px; } }
 
 @media (max-width: 991.98px) {
   .slide-one-item .owl-nav {
